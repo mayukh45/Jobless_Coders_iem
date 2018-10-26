@@ -8,11 +8,26 @@ This application guides you to your air quality information at your selected loc
 
  - PM2.5
  - PM10
- - S02
- - C0
- - N02
+ - SO2
+ - CO
+ - NO2
  - OZONE
  
 
-## Realtime Notifications 
-## Air Quality Index Meter
+##  Realtime Notifications 
+Your location,your preference,your timer
+Notifications triggered when primary safety parameters cross the threshold limits.
+##  Air Quality Index Meter
+
+
+## Contributors
+
+ -  [Indranil Chatterjee](https://github.com/indracs97)
+ -  [Krishna Bose](https://github.com/krishnabose02)
+ -  [Mayukh Sengupta](https://github.com/mayukh45)
+ -  [Ankan Mukherjee](https://github.com/Ankan07)
+
+
+
+
+
