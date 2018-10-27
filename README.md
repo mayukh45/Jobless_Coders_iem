@@ -18,7 +18,8 @@ This application guides you to your air quality information at your selected loc
 Your location,your preference,your timer
 Notifications triggered when primary safety parameters cross the threshold limits.
 ##  Air Quality Index Meter
-
+Numbers are good but isn't it great to see everything through pictorial representations?
+We show a customised graph comparing the current condition of your location to the internationally acclaimed pollution standard values, so that you can get a fair idea about how much this might affect your health.
 
 ## Contributors
 
