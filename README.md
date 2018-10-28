@@ -19,7 +19,8 @@ Your location,your preference,your timer
 Notifications triggered when primary safety parameters cross the threshold limits.
 ##  Air Quality Index Meter
 Numbers are good but isn't it great to see everything through pictorial representations?
-We show a customised graph comparing the current condition of your location to the internationally acclaimed pollution standard values, so that you can get a fair idea about how much this might affect your health.
+We show a customised graph comparing the current condition of your location to the nationally acclaimed pollution standard values, so that you can get a fair idea about how much this might affect your health.
+Source for standard values in India [AQI Standards-India](https://en.wikipedia.org/wiki/Air_quality_index#India)
 
 ## Contributors
 
