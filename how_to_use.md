@@ -41,10 +41,27 @@ You get detailed statistics regarding various pollutants e.g SO2,PM10,PM2.5,CO,N
 
 
 ![enter image description here](https://raw.githubusercontent.com/mayukh45/Jobless_Coders_iem/master/pollutionapp/Screenshot_20181028-223316.png)
+
+
+
+
 4.choose the interval
+
+
+
+
 ![enter image description here](https://raw.githubusercontent.com/mayukh45/Jobless_Coders_iem/master/pollutionapp/Screenshot_20181028-223329.png)
 
+
+
+
+
 5. Get your notifications
+
+
+
+
+
 
 
 
@@ -53,7 +70,16 @@ For e.g It displays the AQI of the location.Click on it to get more info.
 
 
 
+
+
+
+
+
 ![enter image description here](https://raw.githubusercontent.com/mayukh45/Jobless_Coders_iem/master/pollutionapp/Screenshot_20181028-223446.png)
+
+
+
+
 
 
 
@@ -73,5 +99,3 @@ For e.g It displays the AQI of the location.Click on it to get more info.
 
 
  ![enter image description here](https://raw.githubusercontent.com/mayukh45/Jobless_Coders_iem/master/pollutionapp/Screenshot_20181028-223553.png)
-
- 
