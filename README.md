@@ -1,4 +1,4 @@
-#  BreatheEasy
+#  BreathEasy
 
 One stop solution for your air quality concern.
 With appealing histograms and engaging visual representation 
